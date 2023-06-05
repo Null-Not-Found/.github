@@ -19,7 +19,7 @@ Null Not Found is an Git organization dedicated to a school project focused on c
 
 ## Documentation
 ***
-To access the documentation, please click [here]().
+To access the documentation, please click [here](https://github.com/Null-Not-Found/DashBuddy-Documentation).
 
 ## Learning outcomes
 ***
