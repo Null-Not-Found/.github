@@ -26,10 +26,10 @@ To access the documentation, please click [here](https://github.com/Null-Not-Fou
 [Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
-|Agile Method| [🔗]()
-|Cultural differences and ethics| [🔗]()
-|Requirements and design| [🔗]()
-|Business processes| [🔗]()
+|Agile Method| [🔗](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Agile%20Method.md)
+|Cultural differences and ethics| [🔗](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Cultural%20differences%20and%20ethics.md)
+|Requirements and design| [🔗](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Requirements%20and%20design.md)
+|Business processes| [🔗](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Business%20processes.md)
 
 ## Special Credits
 
