@@ -30,3 +30,8 @@ To access the documentation, please click [here]().
 |Cultural differences and ethics| [🔗]()
 |Requirements and design| [🔗]()
 |Business processes| [🔗]()
+
+## Special Credits
+
+  + [World of Content](https://worldofcontent.com/en-gb/): For entrusting us with this project and providing guidance as our stakeholder.
+  + ChatGPT: For its invaluable assistance and insights during the development process.
