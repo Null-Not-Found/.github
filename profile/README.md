@@ -23,7 +23,6 @@ To access the documentation, please click [here](https://github.com/Null-Not-Fou
 
 ## Learning outcomes
 ***
-[Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
 |Agile Method| [🔗](https://github.com/Null-Not-Found/DashBuddy-Documentation/blob/main/Learning%20Outcomes/Agile%20Method.md)
